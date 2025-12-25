@@ -71,7 +71,7 @@
 
 ## 🔹 Connect With Me
 - GitHub: https://github.com/DeenaDhayalanGK
-- LinkedIn: 
+- LinkedIn:https://www.linkedin.com/in/deenadhayalangk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
