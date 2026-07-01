@@ -1,78 +1,126 @@
-# Hi 👋 I'm Deena Dhayalan G K
+# Hi, I'm Deena Dhayalan G K 👋
 
-🎓 Electronics & Communication Engineering (ECE) Student  
-🔧 Embedded Systems | Robotics | IoT | Firmware Development  
-🚀 Passionate about building real-world hardware + software systems  
+## Embedded Systems | Robotics | Electronics Engineer
 
----
-
-## 🔹 About Me
-- 🎓 Second-year ECE student
-- 🤖 Working on robotics and embedded projects
-- ⚡ Hands-on with microcontrollers like **ESP32, Arduino, Teensy**
-- 🛠 Interested in **motor control, power electronics, sensors, and RTOS**
-- 📈 Actively preparing for **core embedded & software placements**
+Final-year Electronics and Communication Engineering student at the College of Engineering Guindy (Anna University), passionate about Embedded Systems, Robotics, Automotive Electronics, and Firmware Development. I enjoy building intelligent embedded solutions by integrating hardware and software to solve real-world engineering challenges.
 
 ---
 
-## 🔹 Technical Skills
+## About Me
 
-### 🔌 Embedded & Hardware
-- Microcontrollers: **ESP32, Arduino, Teensy, STM32 (basic)**
-- Communication Protocols: **UART, SPI, I2C, CAN (learning)**
-- Sensors: **Ultrasonic, IR, Load Cell, IMU**
-- Motor Control: **DC Motors, Gear Motors, Motor Drivers (L298N, Sabertooth)**
+- 🎓 B.E. Electronics and Communication Engineering
+- 🏫 College of Engineering Guindy (Anna University)
+- 💻 Interested in Embedded Systems, Firmware Development, and Automotive Electronics
+- 🤖 Hands-on experience with robotics, sensor interfacing, and real-time embedded systems
+- ⚡ Currently exploring embedded communication protocols and autonomous robotic systems
 
-### 💻 Programming
-- **C / Embedded C**
-- **C++ (Basics to OOP)**
-- Python (Basic)
-- Arduino Framework
+---
 
-### ⚙️ Tools & Software
+## Technical Skills
+
+### Programming
+- C
+- Python
+
+### Embedded Platforms
+- ESP32
+- Arduino
+- Raspberry Pi
+
+### Embedded Concepts
+- GPIO
+- UART
+- SPI
+- I2C
+- PWM
+- ADC
+- CAN Communication
+- LoRa Communication
+
+### Hardware
+- Sensor Interfacing
+- Motor Drivers
+- Battery Management System (BMS)
+- Relays
+- PCB Assembly
+- SMD Soldering
+
+### Tools
 - Arduino IDE
-- PlatformIO
+- EasyEDA
 - LTspice
-- Git & GitHub
-- VS Code
+- MATLAB
 
 ---
 
-## 🔹 Projects
+# Projects
 
-### 🚜 AiravatX – Trash Cleaning Robot
-- Designed electronics and power system
-- Motor driver selection and torque calculations
-- ESP32-based control system
-- Caterpillar track movement logic
-
-### 🚤 RC Boat using ESP32
-- Wireless control using ESP32
-- Motor control and power management
-- Real-time testing and tuning
-
-*(More projects coming soon…)*
+## Hydraulic Hybrid Electric Vehicle
+- Developed control logic for Directional Control Valve (DCV)
+- Implemented pressure sensor-based switching logic
+- Worked on BLDC motor control and battery management
+- Developed embedded logic for regenerative braking
 
 ---
 
-## 🔹 Currently Learning
-- RTOS concepts
+## Autonomous Trash Cleaning Robot
+- Built an autonomous robot using Raspberry Pi and LiDAR
+- Implemented obstacle detection and SLAM-based mapping
+- Performed motor torque and battery sizing
+- Integrated motor drivers, sensors, and battery-powered drive system
+
+---
+
+## Electric All-Terrain Vehicle (CEG Motorsports)
+- Worked as Senior Electrical Drivetrain Member
+- Integrated ESP32, BMS, motor controllers, relays, and sensors
+- Implemented CAN and LoRa communication
+- Assisted in electrical integration and testing
+
+---
+
+## Embedded Systems Internship
+
+AtumX Innovations Pvt. Ltd.
+
+- Developed embedded applications using custom microcontroller platforms
+- Built an Ultrasonic Radar with Python GUI
+- Developed a Line Follower Robot
+- Integrated sensors for robotic applications
+- Performed PCB assembly and hardware debugging
+
+---
+
+## Areas of Interest
+
+- Embedded Systems
+- Embedded C
+- Firmware Development
+- Automotive Electronics
+- Robotics
+- Sensor Fusion
+- IoT
+- Real-Time Systems
+- Hardware-Software Integration
+
+---
+
+## Currently Learning
+
+- STM32
+- FreeRTOS
+- ESP-IDF
 - Advanced Embedded C
-- Control systems basics
+- Embedded Linux
 
 ---
 
-## 🔹 Goals
-- 🎯 Get placed in a **core embedded systems company**
-- 🔧 Become strong in **firmware + hardware integration**
-- 🧠 Build industry-level projects
+## Connect With Me
 
----
+📧 Email: **yourmail@gmail.com**
 
-## 🔹 Connect With Me
-- GitHub: https://github.com/DeenaDhayalanGK
-- LinkedIn:https://www.linkedin.com/in/deenadhayalangk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 LinkedIn:
+https://linkedin.com/in/yourprofile
 
----
-
-⭐ *If you like my work, feel free to star my repositories!*
+💻 GitHub:
+https://github.com/yourusername
