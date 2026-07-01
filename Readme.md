@@ -117,10 +117,10 @@ AtumX Innovations Pvt. Ltd.
 
 ## Connect With Me
 
-📧 Email: **yourmail@gmail.com**
+📧 Email: **dhayalandeena811@gmail.com**
 
 🔗 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/deenadhayalangk
 
 💻 GitHub:
-https://github.com/yourusername
+https://github.com/DeenaDhayalanGK
